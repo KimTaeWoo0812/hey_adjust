@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="0.Main">
+      <UniqueIdentifier>{575ba889-894c-4712-a070-56149f269c39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Interface">
+      <UniqueIdentifier>{5cd0d7c1-0875-43fd-920f-0b5dcef82f4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Header">
+      <UniqueIdentifier>{1059f161-36b2-490b-845f-b91812e6ce54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Header\1.Main">
+      <UniqueIdentifier>{86d41899-145e-45cb-976e-176e4fe0cbfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Header\2.SUb">
+      <UniqueIdentifier>{933dd903-a738-4bd5-b4cd-cc4a7bdd7a63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Interface\1.Base">
+      <UniqueIdentifier>{e77d1674-e828-4f9e-aead-d657d4f0a93e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class">
+      <UniqueIdentifier>{a1f3734d-e1ab-4138-b650-790fa11820c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass">
+      <UniqueIdentifier>{034faeda-dd61-4277-af46-57c21d33d5f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\1.Server">
+      <UniqueIdentifier>{733fdd73-c364-448e-8f7d-857631f33788}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\1.Server\1.MainServer">
+      <UniqueIdentifier>{92b418c7-344e-4500-973a-9ebbe805fb2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\2.Client">
+      <UniqueIdentifier>{7cb0c259-ec91-4533-9107-892e2707796c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Interface\2.ClientBase">
+      <UniqueIdentifier>{4fb7a87e-ffbd-4d31-94f8-813500cfdefa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\2.Client\GameClient">
+      <UniqueIdentifier>{50646ccd-2ff6-44b0-9a96-d26173b385ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\3.Client_Position">
+      <UniqueIdentifier>{de5d1cb8-0ccc-4333-be0a-1e0df68259e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\3.Client_Position\1.Login">
+      <UniqueIdentifier>{ec425649-38b1-46e8-b16d-8102ed28cd44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\3.Client_Position\2.Lobby">
+      <UniqueIdentifier>{056b6182-f053-490f-8597-71eacb4341d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Interface\3.IClientPosition">
+      <UniqueIdentifier>{dfc1e225-ef0f-4bd9-9203-1d52817f3132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\3.Client_Position\0.Base">
+      <UniqueIdentifier>{053ffce5-e7c6-4f51-b3bc-f841b745f7c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\3.Client_Position\3.Room">
+      <UniqueIdentifier>{dc08bdc6-d352-4a55-94a5-781c40c43c17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\3.Client_Position\1.Login\Interpret">
+      <UniqueIdentifier>{36ff8950-4049-49f6-9a4f-84c1448c4c15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\4.DataBase">
+      <UniqueIdentifier>{b199e67c-7907-4fbb-a6bd-bb45efc5ccba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\3.Client_Position\2.Lobby\Interpret">
+      <UniqueIdentifier>{046402e4-e57d-4478-a304-22bb3ad1e8f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\3.Client_Position\4.InterpretHelper">
+      <UniqueIdentifier>{af12e824-d0c8-4982-8bf5-2a40bb933cc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\2.Client\GameClient\1.Client">
+      <UniqueIdentifier>{b8d6a9b6-2b68-4133-a325-a13a33c8e896}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\2.Client\GameClient\2.Administrator">
+      <UniqueIdentifier>{237322a0-8129-4862-8da5-4dcf62f34855}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\2.Client\GameClient\3. MessageBox">
+      <UniqueIdentifier>{b0d66608-240b-4a13-a11c-89f89300ddac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\0.MainInterface">
+      <UniqueIdentifier>{86c75da2-174d-45dc-af14-c868e0fac227}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\0.MainInterface\1.ServerInterface">
+      <UniqueIdentifier>{5dfa7c4a-f1ec-48c7-a90a-72a2d9d1fde1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\3.Client_Position\3.Room\Interpret">
+      <UniqueIdentifier>{bd820af5-603f-45be-ad74-607ed91a7059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\3.Client_Position\0.Base\Interpret">
+      <UniqueIdentifier>{8c302e7d-1700-41f2-81e1-d81a7cf153f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\4.Game">
+      <UniqueIdentifier>{68a6826f-8987-4d40-9eb9-f09bf8109fb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1.Interface\4.GameServer">
+      <UniqueIdentifier>{7af17a6a-1a4f-4f37-a1a5-5e89b9e5fc82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\4.Game\1.GameServer">
+      <UniqueIdentifier>{1e129e43-35b2-4d67-be97-fc4071137321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\4.Game\2.GameLogic">
+      <UniqueIdentifier>{f5a92dbc-978e-442f-a485-9fba91a43833}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\4.Game\2.GameLogic\Interpret">
+      <UniqueIdentifier>{a860b826-c1c8-4e9b-b4a8-ccb1d6bd7a25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\3.Client_Position\5.StringIncodeingHelper">
+      <UniqueIdentifier>{5d0a6c5f-85b4-40dc-9bd5-2356ff4047d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\4.Game\1.GameServer\1.GameTable">
+      <UniqueIdentifier>{4af5d4e4-97cb-4509-b648-61ec8d63551b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.Class\1.MainClass\4.Game\1.GameServer\2.Random">
+      <UniqueIdentifier>{bfe4d655-5d79-428e-9f90-a9725a3f38f8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Value.h">
+      <Filter>헤더 파일\Header\2.SUb</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>헤더 파일\Header\2.SUb</Filter>
+    </ClInclude>
+    <ClInclude Include="Function.h">
+      <Filter>헤더 파일\Header\2.SUb</Filter>
+    </ClInclude>
+    <ClInclude Include="Enum.h">
+      <Filter>헤더 파일\Header\2.SUb</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>헤더 파일\Header\2.SUb</Filter>
+    </ClInclude>
+    <ClInclude Include="Include.h">
+      <Filter>헤더 파일\Header\1.Main</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일\Header\1.Main</Filter>
+    </ClInclude>
+    <ClInclude Include="IBase.h">
+      <Filter>1.Interface\1.Base</Filter>
+    </ClInclude>
+    <ClInclude Include="MainServer.h">
+      <Filter>2.Class\1.MainClass\1.Server\1.MainServer</Filter>
+    </ClInclude>
+    <ClInclude Include="IClientBase.h">
+      <Filter>1.Interface\2.ClientBase</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientBase.h">
+      <Filter>2.Class\1.MainClass\2.Client\GameClient\1.Client</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientAdministrator.h">
+      <Filter>2.Class\1.MainClass\2.Client\GameClient\2.Administrator</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageBox.h">
+      <Filter>2.Class\1.MainClass\2.Client\GameClient\3. MessageBox</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientLogin.h">
+      <Filter>2.Class\1.MainClass\3.Client_Position\1.Login</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientLobby.h">
+      <Filter>2.Class\1.MainClass\3.Client_Position\2.Lobby</Filter>
+    </ClInclude>
+    <ClInclude Include="IClientPosition.h">
+      <Filter>1.Interface\3.IClientPosition</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientPositionBase.h">
+      <Filter>2.Class\1.MainClass\3.Client_Position\0.Base</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientRoom.h">
+      <Filter>2.Class\1.MainClass\3.Client_Position\3.Room</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginInterpret.h">
+      <Filter>2.Class\1.MainClass\3.Client_Position\1.Login\Interpret</Filter>
+    </ClInclude>
+    <ClInclude Include="DataBase.h">
+      <Filter>2.Class\4.DataBase</Filter>
+    </ClInclude>
+    <ClInclude Include="InterpretHelper.h">
+      <Filter>2.Class\1.MainClass\3.Client_Position\4.InterpretHelper</Filter>
+    </ClInclude>
+    <ClInclude Include="LobbyInterpret.h">
+      <Filter>2.Class\1.MainClass\3.Client_Position\2.Lobby\Interpret</Filter>
+    </ClInclude>
+    <ClInclude Include="ServerInterface.h">
+      <Filter>2.Class\0.MainInterface\1.ServerInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomInterpret.h">
+      <Filter>2.Class\1.MainClass\3.Client_Position\3.Room\Interpret</Filter>
+    </ClInclude>
+    <ClInclude Include="IGameServer.h">
+      <Filter>1.Interface\4.GameServer</Filter>
+    </ClInclude>
+    <ClInclude Include="GameServer.h">
+      <Filter>2.Class\1.MainClass\4.Game\1.GameServer</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogic.h">
+      <Filter>2.Class\1.MainClass\4.Game\2.GameLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogicInterpret.h">
+      <Filter>2.Class\1.MainClass\4.Game\2.GameLogic\Interpret</Filter>
+    </ClInclude>
+    <ClInclude Include="GameTable.h">
+      <Filter>2.Class\1.MainClass\4.Game\1.GameServer\1.GameTable</Filter>
+    </ClInclude>
+    <ClInclude Include="HStringIncoding.h">
+      <Filter>2.Class\1.MainClass\3.Client_Position\5.StringIncodeingHelper</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>2.Class\1.MainClass\4.Game\1.GameServer\2.Random</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>0.Main</Filter>
+    </ClCompile>
+    <ClCompile Include="IBase.cpp">
+      <Filter>1.Interface\1.Base</Filter>
+    </ClCompile>
+    <ClCompile Include="MainServer.cpp">
+      <Filter>2.Class\1.MainClass\1.Server\1.MainServer</Filter>
+    </ClCompile>
+    <ClCompile Include="IClientBase.cpp">
+      <Filter>1.Interface\2.ClientBase</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientBase.cpp">
+      <Filter>2.Class\1.MainClass\2.Client\GameClient\1.Client</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientAdministrator.cpp">
+      <Filter>2.Class\1.MainClass\2.Client\GameClient\2.Administrator</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageBox.cpp">
+      <Filter>2.Class\1.MainClass\2.Client\GameClient\3. MessageBox</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientLogin.cpp">
+      <Filter>2.Class\1.MainClass\3.Client_Position\1.Login</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientLobby.cpp">
+      <Filter>2.Class\1.MainClass\3.Client_Position\2.Lobby</Filter>
+    </ClCompile>
+    <ClCompile Include="IClientPosition.cpp">
+      <Filter>1.Interface\3.IClientPosition</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientPositionBase.cpp">
+      <Filter>2.Class\1.MainClass\3.Client_Position\0.Base</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientRoom.cpp">
+      <Filter>2.Class\1.MainClass\3.Client_Position\3.Room</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginInterpret.cpp">
+      <Filter>2.Class\1.MainClass\3.Client_Position\1.Login\Interpret</Filter>
+    </ClCompile>
+    <ClCompile Include="DataBase.cpp">
+      <Filter>2.Class\4.DataBase</Filter>
+    </ClCompile>
+    <ClCompile Include="LobbyInterpret.cpp">
+      <Filter>2.Class\1.MainClass\3.Client_Position\2.Lobby\Interpret</Filter>
+    </ClCompile>
+    <ClCompile Include="ServerInterface.cpp">
+      <Filter>2.Class\0.MainInterface\1.ServerInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomInterpret.cpp">
+      <Filter>2.Class\1.MainClass\3.Client_Position\3.Room\Interpret</Filter>
+    </ClCompile>
+    <ClCompile Include="IGameServer.cpp">
+      <Filter>1.Interface\4.GameServer</Filter>
+    </ClCompile>
+    <ClCompile Include="GameServer.cpp">
+      <Filter>2.Class\1.MainClass\4.Game\1.GameServer</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogic.cpp">
+      <Filter>2.Class\1.MainClass\4.Game\2.GameLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogicInterpret.cpp">
+      <Filter>2.Class\1.MainClass\4.Game\2.GameLogic\Interpret</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTable.cpp">
+      <Filter>2.Class\1.MainClass\4.Game\1.GameServer\1.GameTable</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>2.Class\1.MainClass\4.Game\1.GameServer\2.Random</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

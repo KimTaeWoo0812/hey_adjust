@@ -1,0 +1,12 @@
+C:\Users\ByeoungWook\Desktop\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\bin\Release\스트리밍서버.exe.config
+C:\Users\ByeoungWook\Desktop\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\bin\Release\스트리밍서버.exe
+C:\Users\ByeoungWook\Desktop\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\bin\Release\스트리밍서버.pdb
+C:\Users\ByeoungWook\Desktop\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\obj\Release\스트리밍서버.csprojResolveAssemblyReference.cache
+C:\Users\ByeoungWook\Desktop\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\obj\Release\스트리밍서버.exe
+C:\Users\ByeoungWook\Desktop\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\obj\Release\스트리밍서버.pdb
+G:\서류\삼성 소프트웨어 맴버십\맞춰봐 임마!\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\bin\Release\스트리밍서버.exe.config
+G:\서류\삼성 소프트웨어 맴버십\맞춰봐 임마!\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\obj\Release\스트리밍서버.exe
+G:\서류\삼성 소프트웨어 맴버십\맞춰봐 임마!\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\obj\Release\스트리밍서버.pdb
+G:\서류\삼성 소프트웨어 맴버십\맞춰봐 임마!\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\bin\Release\스트리밍서버.exe
+G:\서류\삼성 소프트웨어 맴버십\맞춰봐 임마!\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\bin\Release\스트리밍서버.pdb
+G:\서류\삼성 소프트웨어 맴버십\맞춰봐 임마!\스트리밍_서버\스트리밍서버\스트리밍서버\스트리밍서버\obj\Release\스트리밍서버.csprojResolveAssemblyReference.cache

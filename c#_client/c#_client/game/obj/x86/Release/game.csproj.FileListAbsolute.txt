@@ -1,0 +1,59 @@
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\bin\Release\game.exe
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\bin\Release\game.pdb
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\obj\x86\Release\game.gameRoom.resources
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\obj\x86\Release\game.login.resources
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\obj\x86\Release\game.Properties.Resources.resources
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\obj\x86\Release\game.csproj.GenerateResource.Cache
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\obj\x86\Release\game.exe
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\obj\x86\Release\game.pdb
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\obj\x86\Release\game.gameEnd.resources
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\obj\x86\Release\game.setupRoom.resources
+C:\Users\김태우\Documents\Visual Studio 2010\Projects\game\game\obj\x86\Release\game.CreateForm.resources
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\obj\x86\Release\game.csprojResolveAssemblyReference.cache
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\bin\Release\OpenCvSharp.dll
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\김태우\documents\visual studio 2010\Projects\game\game\obj\x86\Release\game.UserMakeSubject.resources
+C:\Users\김태우\Desktop\game 최종 발표용\game\obj\x86\Release\game.exe
+C:\Users\김태우\Desktop\game 최종 발표용\game\obj\x86\Release\game.pdb
+C:\Users\김태우\Desktop\game 최종 발표용\game\bin\Release\game.exe
+C:\Users\김태우\Desktop\game 최종 발표용\game\bin\Release\game.pdb
+C:\Users\김태우\Desktop\game 최종 발표용\game\obj\x86\Release\game.csprojResolveAssemblyReference.cache
+C:\Users\김태우\Desktop\game 최종 발표용\game\obj\x86\Release\game.CreateForm.resources
+C:\Users\김태우\Desktop\game 최종 발표용\game\obj\x86\Release\game.gameRoom.resources
+C:\Users\김태우\Desktop\game 최종 발표용\game\obj\x86\Release\game.gameEnd.resources
+C:\Users\김태우\Desktop\game 최종 발표용\game\obj\x86\Release\game.login.resources
+C:\Users\김태우\Desktop\game 최종 발표용\game\obj\x86\Release\game.Properties.Resources.resources
+C:\Users\김태우\Desktop\game 최종 발표용\game\obj\x86\Release\game.setupRoom.resources
+C:\Users\김태우\Desktop\game 최종 발표용\game\obj\x86\Release\game.UserMakeSubject.resources
+C:\Users\김태우\Desktop\game 최종 발표용\game\obj\x86\Release\game.csproj.GenerateResource.Cache
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.exe
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.pdb
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\bin\Release\game.exe
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\bin\Release\game.pdb
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.csprojResolveAssemblyReference.cache
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.CreateForm.resources
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.gameRoom.resources
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.gameEnd.resources
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.login.resources
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.Properties.Resources.resources
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.setupRoom.resources
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.UserMakeSubject.resources
+C:\Users\김태우\Desktop\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.csproj.GenerateResource.Cache
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.exe
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.pdb
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\bin\Release\game.exe
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\bin\Release\game.pdb
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.csprojResolveAssemblyReference.cache
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.CreateForm.resources
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.gameRoom.resources
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.gameEnd.resources
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.login.resources
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.Properties.Resources.resources
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.setupRoom.resources
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.UserMakeSubject.resources
+E:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.csproj.GenerateResource.Cache
+G:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.exe
+G:\과제\맞춰봐 임마!\game 최종 발표용\game\obj\x86\Release\game.pdb

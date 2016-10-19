@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="스트리밍서버.CServerInterface" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgACAAAAAAABAAAAAAAAAAABAAABCAQAA=</HashCode>
+      <FileName>Class\0.GameInterface\CServerInterface.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="m_Server" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="스트리밍서버.CStreamServer" Collapsed="true">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAABCAAAAAAAIEIBAAABCAAAg=</HashCode>
+      <FileName>Class\1.GameServer\0.StreamServer\CStreamServer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="m_Administrator" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="스트리밍서버.CClientAdministrator" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAABAAAAAAAAAAABSDABCAAAA=</HashCode>
+      <FileName>Class\2.Client\ClientAdministrator\CClientAdministrator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="m_Room" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="스트리밍서버.CRoom" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAQAAiCAAEAAAAAAAAAAAIAACABCAAAA=</HashCode>
+      <FileName>Class\3.Room\CRoom.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="m_Clinet" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="스트리밍서버.CClient" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IwCAAYAAAAAAIAAASSBIAAKAAAhBAAIRAAABABCgACA=</HashCode>
+      <FileName>Class\2.Client\CClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
